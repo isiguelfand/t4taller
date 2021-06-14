@@ -1,0 +1,1604 @@
+Maternal mortality ratio (per 100 000 live births) - Country reported estimates
+Prevalence of smoking any tobacco product among adults (&#8805;15 years) (%)
+Water, sanitation and hygiene attributable DALYs ('000)
+Water, sanitation and hygiene attributable DALYs ('000) in children under 5 years
+Water, sanitation and hygiene attributable DALYs per 100'000 capita
+Ambient air pollution  attributable deaths per 100'000 children under 5 years
+UV radiation attributable deaths per 100'000 capita
+UV radiation attributable DALYs per 100'000 capita
+Distribution of years of life lost by broader causes (%) - Injuries
+Civil registration coverage of causes of deaths (%)
+Number of nursing and midwifery personnel
+Adults aged &#8805; 20 years who are obese (%)
+Total density per million population: Telecobalt Unit
+National guidelines, policies or recommendations on the procurement of medical devices
+Number of national population surveys - child anthropometry
+Number of under-five deaths from malaria
+Distribution of causes of death among children aged <5 years (%) - HIV/AIDS
+Distribution of causes of death among children aged <5 years (%) - Measles
+Distribution of causes of death among children aged <5 years (%) - Pneumonia
+Distribution of causes of death among children aged <5 years (%) - Other diseases
+Distribution of causes of death among children aged <5 years (%) - Diarrhoea
+Distribution of causes of death among children aged <5 years (%) - Malaria
+Distribution of causes of death among children aged <5 years (%) - Injuries
+Distribution of causes of death among children aged <5 years (%) - Birth asphyxia
+Distribution of causes of death among children aged <5 years (%) - Congenital anomalies
+Distribution of causes of death among children aged <5 years (%) - Neonatal sepsis
+Distribution of causes of death among children aged <5 years (%) - Prematurity
+Tuberculosis - new and relapse cases
+Commitments to recipient countries (Million, constant 2009 US$)
+Disbursements to recipient countries (Million, constant 2009 US$)
+Women accessing antenatal care (ANC) services who were tested for syphilis (%)
+Annual incidence of dracunculiasis cases
+Net primary school enrolment ratio (%)
+Number of reported deaths from cholera
+All-cause outpatient cases
+Malaria outpatient cases
+Number of households targeted for spraying
+Number of ACT only treatment doses received (public facilities and community)
+Government budget for malaria (USD)
+Health warnings on other smoked tobacco packaging must be rotated
+Percentage of principal display area mandated to be covered by health warnings - back of other smoked tobacco packaging
+Health warnings appear on each other smoked tobacco package and any outside packaging and labelling used in the retail sale
+Health warnings on other smoked tobacco packaging describe the harmful effects of tobacco use on health
+Font style, font size and colour of health warnings are mandated for other smoked tobacco packaging
+Daily users of any smokeless tobacco product (crude rate)
+Current smokers of cigarettes (youth rate)
+Exposure to smoke at home
+Percentage of principal display area mandated to be covered by health warnings - front of other smoked tobacco packaging
+Specific health warnings are mandated for other smoked tobacco packaging
+Number of health warnings approved by the law for other smoked tobacco packaging
+Year of survey of youth
+Representativeness of youth survey
+Exposure to smoke outside home
+Smoking cessation support is available in the community
+Smoking cessation support is available in other settings
+Nicotine replacement therapy - legally sold
+Nicotine replacement therapy - place available
+Number of reported cases of cholera
+Cholera case fatality rate
+Raised total cholesterol (>= 5.0 mmol/L) (age-standardized estimate)
+Raised total cholesterol (&#8805; 6.2 mmol/L) (crude estimate)
+Raised total cholesterol (&#8805; 6.2 mmol/L) (age-standardized estimate)
+Mean BMI (kg/m&#xb2;) (crude estimate)
+Mean Total Cholesterol (crude estimate)
+Mean Total Cholesterol (age-standardized estimate)
+Mean fasting blood glucose (mmol/l) (crude estimate)
+Mean systolic blood pressure (crude estimate)
+Existence of a formal pre-hospital care system
+Population
+Age-standardized death rates, alcohol use disorders, per 100,000
+Age-standardized death rates, violence, per 100,000
+Age-standardized death rates, fires, per 100,000
+Age-standardized death rates, poisoning, per 100,000
+Age-standardized death rates, mouth and oropharynx cancer, per 100,000
+Age-standardized death rates (15+ years), poisoning, per 100,000
+Age-standardized death rates (15+ years), violence, per 100,000
+Age-standardized death rates (15+ years), alcoholic liver disease, per 100,000
+Production in 1000s hectolitres
+Imports in 1000s hectolitres
+Exports of wine (grape) in 1000s hectolitres
+Exports of beer (barley) in 1000s hectolitres
+Sales of beer in 1000s hectolitres
+Sales of wine in 1000s hectolitres
+Exports of spirits in 1000s hectolitres
+Point prevalence (%), alcohol use disorders, 15+ years
+Epidemiological data collection system for substance use disorders
+Service delivery data collection system for substance use disorders
+Programmes diverting clients from the justice system towards treatment
+Confidentiality of health records on substance use disorders  protected by law
+Budget line for substance use disorder treatment
+Policy documents on the pharmacological treatment of substance use disorders
+Sector for outpatient treatment of drug dependence
+Treatment setting for substance use disorders, most common
+Length of stay for inpatient detoxification, days
+Beds for the treatment of substance use disorders, per 100 000
+Sector for outpatient treatment of alcohol dependence
+Open access services for substance use disorders
+Essential list of medicines, pharmacotherapy for substance use disorders
+Pharmacotherapy used for the management of cannabis withdrawal
+Pharmacotherapy used for the management of alcohol withdrawal
+Pharmacotherapy used for the management of benzodiazepine withdrawal
+Abstainers (15-19 years), lifetime (%)
+Abstainers (15-19 years), past 12 months (%)
+Age-standardized death rates, colon and rectum cancers, per 100,000
+Age-standardized death rates, drownings, per 100,000
+Age-standardized death rates, ischaemic heart disease, per 100,000
+Age-standardized death rates, liver cancer, per 100,000
+Age-standardized death rates, oesophagus cancer, per 100,000
+Age-standardized death rates, prematurity and low birth rate, per 100,000
+Age-standardized death rates, self-inflicted injury, per 100,000
+Age-standardized DALYs, breast cancer, per 100,000
+Age-standardized DALYs, cerebrovascular disease, per 100,000
+Age-standardized DALYs, colon and rectum cancers, per 100,000
+Age-standardized DALYs, diabetes mellitus, per 100,000
+Age-standardized DALYs, drownings, per 100,000
+Age-standardized DALYs, falls, per 100,000
+Age-standardized DALYs, fires, per 100,000
+Age-standardized DALYs, ischaemic heart disease, per 100,000
+Age-standardized DALYs, liver cancer, per 100,000
+Age-standardized DALYs, liver cirrhosis, per 100,000
+Age-standardized DALYs, mouth and oropharynx cancer, per 100,000
+Age-standardized DALYs, oesophagus cancer, per 100,000
+Age-standardized DALYs, poisoning, per 100,000
+Age-standardized DALYs, self-inflicted injury, per 100,000
+Age-standardized DALYs, violence, per 100,000
+Age-standardized DALYs, prematurity and low birth rate, per 100,000
+Groups and agencies for the prevention of substance use disorders
+Clinical supervision of health care staff
+NGOs for alcohol use disorders
+NGOs for drug use disorders
+Age-standardized death rates, alcohol and drug use disorders, per 100 000
+Age-standardized DALYs, alcohol and drug use disorders, per 100 000
+Methadone provision in clinical and community-based settings
+Supervision requirements for methadone administration
+Prescription requirements for methadone
+Harm reduction programmes for IDUs
+Government unit for substance use disorder prevention
+Programmes for the prevention of substance use disorders for special populations
+Funding method for substance use disorder prevention
+Screening and brief interventions for substance use and substance use disorders
+Opioid agonist pharmacotherapy for the treatment of opioid dependence (detoxification or maintenance)
+Buprenorphine/naloxone used for the treatment of opioid dependence
+Substance use policy at the national level, level of integration
+Hospital discharges, alcoholic liver disease, per 100,000
+Alcohol-related disease mortality, per 100,000 (15+ years)
+Alcohol-related injury mortality, per 1,000
+Minimum legal drinking age
+National surveys on drink-driving
+Counselling to children in families with alcohol problems
+Population median age (years)
+Poverty headcount ratio at $1.25 a day (PPP) (% of population)
+New cases: pulmonary smear-negative
+New cases: pulmonary smear unknown/not done
+New cases: other
+Retreatment cases: treatment after failure (pulmonary smear and/or culture positive)
+Retreatment cases: treatment after default (pulmonary smear and/or culture positive)
+Retreatment cases: other
+Smear-positive tuberculosis treatment-success rate (%)
+Treatment success rate for new pulmonary smear-negative and extrapulmonary tuberculosis cases
+Confirmed cases of MDR-TB
+Confirmed cases of MDR-TB started treatment for MDR-TB (%)
+Government expenditures on mental health as a percentage of total government expenditures on health (%)
+ICT Development Index (IDI) rank
+ICT Development Index (IDI)
+Prices for alcoholic beverages (average, US$)
+Excise tax as a per cent of the retail price of alcoholic beverages
+Cellular subscribers (per 100 population)
+Procurement of medical devices carried out at the national level
+Availability of national list of approved medical devices for procurement or reimbursement
+Availability of technical specifications of medical devices to support procurement or donations
+Unit in the Ministry of Health responsible for the management of medical devices
+Use of nomenclature system
+Total density per 100 000 population: Provincial hospitals
+Total density per million population: Gamma camera or Nuclear medicine
+Total density per million population: Positron Emission tomography
+Number of reported cases of tuberculosis (DOTS)
+UV radiation attributable deaths
+UV radiation attributable DALYs ('000)
+Low-birth-weight newborns (%)
+Percent of urban inhabitants living in cities covered by PM measurements
+Ambient air pollution attributable deaths
+Reported number of children receiving antiretroviral therapy, month and year of report
+Total density per million females aged from 50 to 69 years old: Mammography units
+Availability of national standards or recommended lists of medical devices
+Types of lists recommending health technology for high burden diseases
+Number of cause-of-death registration years available
+International Statistical Classification of Diseases and Related Health Problems (ICD)
+Antenatal care attendees who were positive for syphilis (%)
+Men who have sex with men (MSM) with active syphilis (%)
+Preterm birth rate (per 100 live births)
+Cholera - number of reported cases
+Number of mixed infections
+Government health budget (USD)
+Repeating interval for survey of youth (years)
+Access to a toll-free quit line
+Smoking cessation support is available in hospitals
+Varenicline - legally sold
+Varenicline - place available
+Fines for violations
+Fines on the establishment
+Fines on the patron
+Gross national income per capita (Atlas method)
+Age-standardized death rates, falls, per 100,000
+Age-standardized death rates, liver cirrhosis, per 100,000
+Monitoring
+Point prevalence (%), drug use disorders, 15+ years
+Data on substance use disorders disseminated in national annual reports
+Legislative provision for compulsory treatment
+Sector for the treatment of alcohol-induced psychoses and other alcohol-induced psychiatric conditions
+Treatment system for substance use disorders
+Length of stay for inpatient short-term treatment, days
+Sector for residential long-term rehabilitation of drug use disorders
+Specialized treatment services for drug use disoders and HIV/AIDS
+Sector for residential long-term rehabilitation of alcohol use disorders
+Sector for inpatient treatment of drug dependence
+Commencement of treatment with opioid agonists
+Age-standardized death rates, road traffic accidents, per 100,000
+Age-standardized DALYs, road traffic accidents, per 100,000
+Self-help groups for substance use disorders
+Standards of care for health professionals, maintenance
+Standards of care for health professionals, human rights
+Psychoactive substance causing entry into treatment
+Budget line for substance use disorder prevention
+Prevention activities for substance use disorders, main focus
+Methadone used for the treatment of opioid dependence
+Methadone formulation used for the treatment of opiod dependence
+Opioid agonist pharmacotherapy for the treatment of opioid dependence (maintenance)
+Substance use policy at the national level
+Training in screening and brief interventions for alcohol problems
+Prevention/counselling at workplaces for those with alcohol problems
+Designation of alcohol tax revenues to health services
+Interventions/projects actively involving young people and civil society
+Human development index rank
+Mobile-cellular telephone subscriptions per 100 inhabitants
+Health technology (medical device) national policy
+Total density per 100 000 population: Specialized hospitals
+Total density per million population: Magnetic Resonance Imaging
+Total density per million population: Linear Accelerator
+Response
+Risk communication
+Food safety
+Radionuclear
+Alcohol, patterns of drinking score
+Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol), three-year average
+Alcohol, total (recorded 3 year average + unrecorded) per capita (15+) consumption (in litres of pure alcohol) with 95%CI
+Antiretroviral therapy coverage among people with advanced HIV infection (%), WHO 2006 guidelines
+Water, sanitation and hygiene attributable deaths ('000) in children under 5 years
+Water, sanitation and hygiene attributable deaths per 100'000 capita
+Water, sanitation and hygiene  attributable deaths per 100'000 children under 5 years
+Percentage of the total population living in cities > 100'000 inhabitants
+Ambient air pollution  attributable DALYs per 100'000 children under 5 years
+Household air pollution  attributable deaths per 100'000 children under 5 years
+Household air pollution  attributable DALYs per 100'000 children under 5 years
+Nursing and midwifery personnel density (per 10 000 population)
+Prevalence of current tobacco use among adolescents (13-15 years) (%)
+Ambient air pollution in urban areas (Annual PM<sub>10</sub> [&#956;g/m<sup>3</sup>])
+Total density per million population: Radiotherapy units
+Number of national population surveys -  adult health
+Deaths due to malaria (per 100 000 population)
+Malaria incidence per 100 000 population
+Malaria attributed deaths
+Percentage of principal display area mandated to be covered by health warnings - front and back of other smoked tobacco packaging
+Health warnings on other smoked tobacco packaging must be written in the principal language(s) of the country
+Exclusive breastfeeding under 6 months (%)
+Smoking cessation support is available in health clinics or other primary care facilities
+Smoking cessation support is available in offices of health professionals
+Bupropion - legally sold
+Bupropion - place available
+Dedicated funds for enforcement
+Citizen complaints and investigations
+Raised total cholesterol (>= 5.0 mmol/L) (crude estimate)
+Treatment, services
+National survey on substance use among children and adolescents
+Sector for inpatient detoxification of alcohol use disorders
+Sector for inpatient detoxification of drug use disorders
+Financing method for substance use disorder treatment
+Sector for inpatient treatment of alcohol dependence
+Essential list of medicines
+Age-standardized death rates, cerebrovascular disease, per 100,000
+Age-standardized death rates, other unintentional injuries, per 100,000
+Age-standardized death rates, breast cancer, per 100,000
+Age-standardized DALYs, alcohol use disorders, per 100,000
+Age-standardized DALYs, other unintentional injuries, per 100,000
+Health professionals mostly involved in treatment of substance use disorders
+Buprenorphine used for the treatment of opioid dependence
+Timeframe of opioid agonist treatment
+Community-based interventions/projects involving stakeholders
+System for monitoring alcohol-related harm
+Data collection on alcohol-related health indicators
+Number of other health workers
+Gender inequality index rank
+Dracunculiasis certification status of countries at the beginning of the year
+Antiretroviral therapy coverage among people with HIV infection eligible for ART according to 2010 guidelines (%)
+Estimated number of people eligible for antiretroviral therapy according to 2010 guidelines
+Total density per 100 000 population: Health posts
+Human resources
+Laboratory
+Points of entry
+Zoonosis
+Chemical
+Alcohol, estimate of five-year change in recorded per capita (15+) consumption 2006-2010
+Alcohol, total (recorded 3 year average + unrecorded) per capita (15+) consumption (in litres of pure alcohol)
+Alcohol, unrecorded per capita (15+) consumption (in litres of pure alcohol)
+Alcohol, unrecorded per capita (15+) consumption (in litres of pure alcohol) with 95%CI
+Reported number of individuals treated for onchocerciasis
+Number of medical assistants
+Number of nursing personnel
+Number of dentists
+Number of physicians
+Smear-positive tuberculosis case-detection rate (%)
+Water, sanitation and hygiene  attributable DALYs per 100'000 children under 5 years
+Ambient air pollution (Annual PM10 [ug/m3])
+Household air pollution attributable deaths per 100'000 capita
+UV radiation
+Radiotherapy units (per 1 000 000 population)
+Number of dentistry personnel
+Dentistry personnel density (per 10 000 population)
+Number of pharmaceutical personnel
+Density of pharmaceutical personnel (per 10 000 population)
+Total density per million population: Computed tomography units
+Type of nomenclature system
+Number of national population surveys - child mortality
+Number of national population surveys - maternal mortality
+Number of national population surveys -  HIV prevalence
+Sex workers with active syphilis (%)
+Health warnings on other smoked tobacco packaging must include a photograph or graphic
+Income level
+Legislative provision for treatment and rehabilitation of substance use disorders
+Drug courts
+Government unit for substance use disorder treatment
+Guidelines on the pharmacological treatment of substance use disorders
+Specialized treatment services for substance use disorders and TB
+Sector for substitution maintenance therapy of opioid dependence
+Age-standardized death rates, diabetes mellitus, per 100,000
+Standards of care for health professionals
+Methadone used for detoxification or maintenance
+Public-funded alcohol research/monitoring programmes
+Public funds designated for alcohol research/monitoring programmes, in Euros
+National treatment policy for alcohol use disorders
+Persons with alcohol use disorders receiving treatment (%)
+Counselling to pregnant women with alcohol problems
+Mental health plan
+Mental health policy
+Percentage of individuals using the Internet
+Legislation
+Coordination
+Surveillance
+Alcohol, total  (recorded + unrecorded) per capita (15+) consumption with 95%CI, projections to 2025
+Alcohol, total (recorded + unrecorded) per capita (15+) consumption, projected estimates for 2016
+Age-standardized DALYs (per 100,000)
+15-19 years old former drinkers (%)
+Civil registration coverage of cause-of-death (%)
+Distribution of years of life lost by major cause group
+Preparedness
+Alcohol, tourist consumption (in litres of pure alcohol)
+15-19 years old abstainers, lifetime (%)
+Most recent census (year)
+Regular reports from national monitoring systems
+Number of deaths
+Status of pinta endemicity
+15-19 years old total alcohol consumption in litres of pure alcohol
+Number of new reported cases of Buruli ulcer
+Number of cases of visceral leishmaniasis reported
+Child maltreatment: Extent of implementation of home-visiting programmes
+Extent of implementation of child protection services
+Gross national income per capita (PPP int. $)
+Antenatal care coverage - at least one visit (%)
+Number of cases of cutaneous leishmaniasis reported
+Contraceptive prevalence (%)
+Prevalence of smoking any tobacco product among persons aged >= 15 years
+General availability of diabetes testing (by blood glucose measurement, OGTT, or HbA1c) at the primary health care level
+General availability of ACE inhibitors in the public health sector
+General availability of CC blockers in the public health sector
+General availability of thiazide diuretics in the public health sector
+Existence of an Operational Unit, Branch, or Dept. in Ministry of Health with responsibility for NCDs
+Population using solid fuels (%)
+Congenital syphilis rate per 100 000 live births
+Median availability of selected generic medicines (%) - Private
+Existence of operational policy/strategy/action plan to decrease tobacco use
+Number of insecticide classes to which resistance was reported
+Organochlorine resistance reported for at least one site
+Pyrethroid resistance reported for at least one site
+Carbamate resistance reported for at least one site
+Organophosphate resistance reported for at least one site
+Percentage of sites for which pyrethroid resistance was reported
+Percentage of sites for which organochlorine resistance was reported
+Percentage of sites for which carbamate resistance was reported
+Youth violence: Extent of implementation of life-skills and social development programmes
+Extent of implementation of  mental health services for victims of all types of violence
+Extent of implementation of medico-legal services for victims of sexual violence
+Total density per 100 000 population: Hospitals
+General availability of colon cancer screening at the primary health care level
+General availability of total cholesterol measurement at the primary health care level
+General availability of metformin in the public health sector
+General availability of statins in the public health sector
+Existence of population-based cancer registry
+Existence of an NCD surveillance and monitoring system in place to enable reporting against the nine global NCD targets
+Median consumer price ratio of selected generic medicines - Private
+Existence of operational policy/strategy/action plan for cancer
+Existence of operational policy/strategy/action plan for diabetes
+Existence of operational policy/strategy/action plan for chronic respiratory diseases
+Existence of operational policy/strategy/action plan to reduce physical inactivity
+Population living on <$1 (PPP int. $) a day (%)
+Percentage of sites for which organophosphate resistance was reported
+Outpatient visits (per 100 000 population)
+Compliance of ban on non-tobacco goods AND services identified with tobacco brand names
+Compliance of ban on sponsored events
+Cigarette packaging and labelling must not display quantitative information on emission yields (such as tar nicotine and carbon monoxide) including when used as part of a brand name or trademark
+Required anti-tobacco ads for any visual entertainment media product that depicts tobacco products, use or images
+Complete ban on tobacco vending machines
+Compliance with bans on direct advertising
+Appearance of tobacco products in TV and/or films
+Subnational advertising, promotion and sponsorship bans - at least one jurisdiction has a comprehensive ban in place
+Sponsored events
+Compliance with regulations on smoke-free environments (national legislation)
+Law requires fines for violations of indirect advertising bans
+Subnational bans on tobacco advertising, promotion and sponsorship
+Adult survey age range - smokeless
+Youth indicator 1 definition
+Name of survey of adults - smokeless
+Tax administration: Bans or limits on duty free imports by travellers
+Representativeness of survey of youth - smokeless
+Tax administration: Tax stamps applied on tobacco products
+Ban on tobacco companies/tobacco industry publicizing their “Corporate Social Responsibility” activities
+Compliance of ban on smoking in PUBLIC TRANSPORT
+Compliance of ban on smoking in UNIVERSITIES
+Compliance of ban on smoking in INDOOR OFFICES
+Compliance of ban on smoking in EDUCATIONAL FACILITIES EXCEPT UNIVERSITIES
+Estimated number of individuals in the country requiring preventive chemotherapy for onchocerciasis
+General availability of breast cancer screening (by palpation or mammogram) at the primary health care level
+General availability of cervical cytology at the primary health care level
+General availability of peak flow measurement spirometry at the primary health care level
+General availability of aspirin (100 mg) in the public health sector
+General availability of bronchodilators in the public health sector
+General availability of steroid inhalers in the public health sector
+Median availability of selected generic medicines (%) - Public
+Existence of operational policy/strategy/action plan to reduce the harmful use of alcohol
+Literacy rate among adults aged >= 15 years (%)
+Stand-alone law for mental health
+Ban on advertising: Point of sale
+Ban on display of tobacco products at points of sale
+Law requires fines for violations of direct advertising bans
+Ban on entities other than tobacco companies/tobacco industry publicizing the Corporate Social Responsibility� activities of the tobacco companies
+Youth survey age range
+Youth survey age range - smokeless
+Adult indicator 1 definition
+Name of survey of youth
+Name of survey of youth - smokeless
+Representativeness of survey of adults
+Representativeness of survey of adults - smokeless
+Compliance of ban on smoking in HEALTH-CARE FACILITIES
+Compliance of ban on smoking in GOVERNMENT FACILITIES
+Compliance of ban on smoking in RESTAURANTS
+Compliance of ban on smoking in PUBS AND BARS
+Compliance with bans on promotion and sponsorship
+Compliance of ban on advertising on national TV and radio
+Status of bejel endemicity
+Intimate partner violence: Extent of implementation  of dating violence prevention programmes
+Elder abuse: Extent of implementation  of caregiver-support programmes
+Civil registration coverage of births (%)
+Prevalence of current tobacco use among adolescents aged 13-15 years
+General availability of urine testing for albumin
+General availability of insulin in the public health sector
+General availability of nicotine replacement therapy in the public health sector
+General availability of oral morphine in the public health sector
+Congenital syphilis number of reported cases
+Existence of operational policy/strategy/action plan for cardiovascular diseases
+Existence of operational policy/strategy/action plan to reduce unhealthy diet related to NCDs
+Stand-alone policy or plan for mental health
+Compliance of ban on free distribution of tobacco products in the mail or through other means
+Compliance of ban on promotional discounts
+Compliance of ban on advertising on billboards and outdoor advertising
+Tax structure: Excise tax proportion of price
+Adult survey age range
+Youth indicator 2 definition
+Adult smokeless tobacco use indicator definition
+Adult indicator 2 definition
+Process evaluation was employed to assess implementation
+Compliance of ban on advertising on local magazines and newspapers
+Compliance of ban on advertising at point of sale
+Tobacco excises increased over the survey period
+Adult indicator 1 rate
+Adult smokeless tobacco use indicator rate
+Youth indicator 2 rate
+Average - taxes as a % of cigarette price - value added tax
+Average - taxes as a % of cigarette price - import duties
+Average - taxes as a % of cigarette price - total tax
+Average - taxes as a % of cigarette price - other taxes
+Tax administration: If duty free imports are limited, duty free allowance (number of cigarette sticks)
+Prevalence of tuberculosis (per 100 000 population)
+Number of prevalent tuberculosis cases
+HIV-positive TB patients on CPT (co-trimoxazole preventive therapy) (%)
+Laboratories providing drug susceptibility testing (DST) (per 5 million population)
+Laboratories providing tuberculosis diagnostic services using culture (per 5 million population)
+Total number of notified TB cases
+Disability-adjusted life years (DALYs) attributable to the environment
+Age-standardized DALYs attributable to the environment (per 100 000 population)
+Deaths attributable to the environment (%)
+Deaths attributable to the environment
+Testing and counselling facilities, estimated number per 100 000 adult population
+Children aged <5 years stunted (%)
+Children aged <5 years underweight (%)
+Children aged <5 years overweight (%)
+Children aged <5 years wasted for age (%)
+Private prepaid plans as a percentage of private expenditure on health
+Per capita government expenditure on health at average exchange rate (US$)
+Per capita total expenditure on health (PPP int. $)
+Per capita government expenditure on health (PPP int. $)
+General government expenditure on health as a percentage of total government expenditure
+External resources for health as a percentage of total expenditure on health
+Social security expenditure on health as a percentage of general government expenditure on health
+Out-of-pocket expenditure as a percentage of private expenditure on health
+Total expenditure on health as a percentage of gross domestic product
+Private expenditure on health as a percentage of total expenditure on health
+General government expenditure on health as a percentage of total expenditure on health
+Per capita total expenditure on health at average exchange rate (US$)
+Reported number of human rabies deaths
+Out-of-pocket expenditure as a percentage of total expenditure on health
+Number of people who received treatment with antibiotics for trachoma
+Existence of a national multisectoral commission, agency or mechanism for NCDs
+Population living in urban areas (%)
+Existence of a diabetes registry
+Most widely used screening method in national cervical cancer screening program
+Provision for secondary prevention of rheumatic fever and rheumatic heart disease in more than 50% of public sector health facilities
+General availability of beta blockers in the public health sector
+Coverage of national cervical cancer screening program (%)
+Raised blood pressure (SBP>=140 OR DBP>=90) (age-standardized estimate)
+Raised blood pressure (SBP>=140 OR DBP>=90) (crude estimate)
+Mean systolic blood pressure (age-standardized estimate)
+Ministry/office that takes primary responsibility for treatment of substance use disorders
+Involvement of representatives of affected or targeted populations in the development and formulation of policies and strategies for treatment of substance use disorders
+Involvement of representatives of affected or targeted populations in the development and implementation of national programmes for treatment of substance use disorders
+Involvement of representatives of affected or targeted populations in the development and implementation of national programmes for prevention for alcohol and drugs
+Five years change in international cooperation for treatment of substance use disorders
+Government benefits for people with alcohol use disorders
+Government benefits for people with drug use disorders
+Main sector for treatment for drug use disorders
+Main substance at treatment entry
+Pharmacotherapy with methadone
+Pharmacotherapy with buprenorphine/naloxone
+Timeframe for maintenance treatment of opioid dependence
+Registration of medications for alcohol dependence and withdrawal
+Registration of medications for opioid dependence
+Adolescent mortality rate (per 100 000 population)
+Groups and agencies involved in prevention programs
+Prevention programmes for specific populations for alcohol
+Ambient air pollution attributable DALYs
+Prevention programmes for drugs
+Prevention programmes for specific populations for drugs
+HIV, Hepatitis counselling and treatment availability in specialized facilities and services
+Standards of treatment and care for public specialized treatment facilities
+Special treatment programmes for gambling disorder
+Treatment programmes for women with alcohol use disorders
+Treatment programmes for women with drug use disorders
+Special housing services for alcohol use disorders
+Special housing services for drug use disorders
+Open access interventions for drugs
+Standards of care for professionals providing treatment for alcohol and drug use disorders
+Continuing professional development in prevention
+Continuing professional development in treatment
+Treatment programmes for children and adolescents with alcohol use disorders
+Five years change in international cooperation for prevention for substance use
+Health professionals providing treatment for alcohol and drug use disorders
+Educational attainment in prevention
+Postgraduate training programme in treatment
+Youth smokeless tobacco use indicator definition
+Affordability: Cigarettes are less affordable in 2014 compared to 2008
+Name of survey of adults
+Compliance of ban on appearance of tobacco products in TV and/or films
+Compliance of ban on brand name of non-tobacco products used for tobacco product
+Adult indicator 2 rate
+Youth indicator 1 rate
+Average - taxes as a % of cigarette price - specific excise
+Average - taxes as a % of cigarette price - ad valorem excise
+Second-line drug susceptibility testing (DST) available
+Laboratories providing tuberculosis diagnostic services using sputum smear microscopy (per 100 000 population)
+Age-standardized deaths attributable to the environment (per 100 000 population)
+Testing and counselling facilities, reporting period
+People aged 15 years and over who received HIV testing and counselling, estimated number per 1000 adult population
+Population in areas that warrant treatment with antibiotics, facial cleanliness and environmental improvement for elimination of trachoma as a public health problem
+Number of people operated for trachomatous trichiasis
+Existence of a set of national NCD indicators and has set time-bound national targets for these indicators
+Existence of any policies on marketing of foods to children
+General availability of diabetes testing (by HbA1c) at the primary health care level
+General availability of dialysis in the public health system
+General availability of coronary bypass or stenting in the public health system
+Provision for care of acute stroke and rehabilitation in more than 50% of public sector health facilities
+Existence of an operational, multisectoral national NCD policy, strategy or action plan that integrates several NCDs and their risk factors
+General availability of palliative care in community or home-based care in the public health system
+Number of licensed qualified anaesthesiologists actively working
+Skilled health professionals density (per 10 000 population)
+Ministry/office that takes primary responsibility for prevention for substance use
+Involvement of representatives of affected or targeted populations in the development and formulation of policies and strategies for prevention for alcohol and drugs
+Confidentiality of people in treatment for substance use disorders
+Voluntary treatment for people with alcohol use disorders in the criminal justice system
+Five-year change in government resources for prevention for substance use
+Five-year change in government resources for treatment of substance use disorders
+Financing methods for treatment for alcohol use disorders
+Financing methods for treatment for drug use disorders
+Treatment programmes for children and adolescents with drug use disorders
+Specialized treatment facilities for substance use disorders
+Specialized treatment facilities for alcohol use disorders
+Guidelines on pharmacological treatment for substance use disorders
+Access restrictions to maintenance treatment
+Registration of naloxone for injection for opioid overdose
+Screening and brief intervention for substance use in primary health care
+Recommendations for screening and brief interventions for substance use in primary health care
+Prevention programmes for alcohol
+Employment services for drug use disorders
+Postgraduate training programme in prevention
+Compliance of ban on appearance of tobacco brands in TV and/or films (product placement)
+Comprehensive bans in place subnationally
+Disability-adjusted life years (DALYs) attributable to the environment (%)
+Number of people aged 15 years and over who received HIV testing and counselling, reporting period
+Existence of any policies to reduce population salt consumption
+Implementation of diet and/or physical activity public awareness program
+General availability of diabetes testing (by blood glucose measurement, OGTT) at the primary health care level
+Existence of national screening program for breast cancer
+Type of national cervical cancer screening program
+Existence of national HPV vaccination programme
+General availability of renal replacement by transplantation in the public health system
+General availability of thrombolytic therapy in the public health system
+Availability of cardiovascular risk stratification in 50% or more primary health care facilities
+General availability of palliative care in primary health care in the public health system
+Number of licensed qualified obstetricians actively working
+Countries that have passed legislation on Universal Health Coverage (UHC)
+Total net official development assistance to medical research and basic health sectors per capita (constant 2014 US$), by recipient
+Government unit/official responsible for treatment of substance use disorders
+Compulsory treatment for people with alcohol use disorders in the criminal justice system
+Compulsory treatment for people with drug use disorders in the criminal justice system
+Specialized treatment facilities for drug use disorders
+Registration of medications for opioid withdrawal
+Ambient air pollution attributable deaths (per 100 000 population, age-standardized)
+Programmes readily available
+Employment services for alcohol use disorders
+Regular reports on epidemiological and service delivery data for substance use
+System of monitoring drugs involvement in forensic pathology
+Epidemiological data collection system for substance use among children and adolescents
+Hypothecated taxes to be spent on prevention and treatment for substance use disorders
+Educational attainment in treatment
+Recommendations for screening and brief interventions for substance use in antenatal services
+Youth smokeless tobacco use indicator rate
+Estimated MDR-TB cases among notified pulmonary TB cases
+Testing and counselling facilities, reported number
+Number of people aged 15 years and over who received HIV testing and counselling, reported number
+Has a STEPS survey or a comprehensive health examination survey every 5 years
+Existence of national screening program for cervical cancer
+General availability of retinal photocoagulation in the public health system
+General availability of sulphonylurea(s) in the public health sector
+DALYs attributable to ambient air pollution (age-standardized)
+Number of licensed qualified surgeons actively working
+Government unit/official responsible for prevention for substance use
+Pharmacotherapy with buprenorphine
+Open access interventions for alcohol
+Epidemiological data collection for substance use
+System of monitoring alcohol involvement in forensic pathology
+Voluntary treatment for people with drug use disorders in the criminal justice system
+Self-help groups
+Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)
+Service delivery data collection for substance use
+Screening and brief intervention for substance use in antenatal services
+Number of imported cases of cutaneous leishmaniasis reported
+Prevalence of obesity among adults, BMI &GreaterEqual; 30 (crude estimate) (%)
+Prevalence of underweight among adults, BMI < 18.5 (age-standardized estimate) (%)
+Prevalence of underweight among adults, BMI < 18.5 (crude estimate) (%)
+Mean BMI (kg/m&#xb2;) (age-standardized estimate)
+Prevalence of overweight among adults, BMI &GreaterEqual; 25 (age-standardized estimate) (%)
+Prevalence of overweight among adults, BMI &GreaterEqual; 25 (crude estimate) (%)
+Availability of naloxone
+Prevalence of overweight among children and adolescents, BMI > +1 standard deviations above the median (crude estimate) (%)
+Prevalence of obesity among children and adolescents, BMI > +2 standard deviations above the median (crude estimate) (%)
+Prevalence of thinness among children and adolescents, BMI < -2 standard deviations below the median (crude estimate) (%)
+Raised fasting blood glucose (>= 7.0 mmol/L or on medication) (crude estimate)
+Raised fasting blood glucose (>=7.0 mmol/L or on medication)(age-standardized estimate)
+Early initiation of breastfeeding (in the five years preceding the survey) (%)
+Demand for family planning satisfied - modern methods (%)
+Obesity prevalence in non-pregnant women aged 15-49 years, BMI >= 30 (%)
+Underweight prevalence in children aged < 3 years (%)
+BCG immunization coverage among one-year-olds (%)
+DTP3 immunization coverage among one-year-olds (%)
+Full immunization coverage among one-year-olds (%)
+Stunting prevalence in children aged < 3 years (%)
+Underweight prevalence in children aged < 5 years (%)
+Contraceptive prevalence - modern methods (%)
+Polio immunization coverage among one-year-olds (%)
+Compliance with international health regulations
+Early initiation of breastfeeding (in the two or three years preceding the survey) (%)
+Measles immunization coverage among one-year-olds (%)
+Wasting prevalence in children aged < 3 years (%)
+Composite coverage index (%)
+Number of dental technicians/assistants
+Physicians density (per 1000 population)
+Nursing and midwifery personnel density (per 1000 population)
+Dentistry personnel density (per 1000 population)
+Reported treatment coverage for substance dependence
+strategy refers to the use of ICT to support UHC
+Public funding for eHealth
+Proportion of private funding
+National eHealth strategy
+Proportion of donor/non public development funding
+Promoting standards and interoperability
+Cost-effectiveness
+Providing oversight and enforcement of data ownership
+mHealth programmes are sponsored by government
+Effectiveness
+Country has telehealth policy or strategy
+Reducing cost of delivering content
+eLearning used for in-service training of health professionals
+Lack of capacity
+Number of laboratory technicians/assistants
+Health management & support workers density (per 1000 population)
+Other health workers density (per 1000 population)
+Estimated population-based prevalence of depression
+Number of laboratory health workers
+Laboratory health workers density (per 1000 population)
+Private funding for eHealth
+Proportion ofpublic private partnerships funding
+Proportion of public funding
+Capacity
+Providing incentives and guidance for innovation research and evaluation of health
+Demand
+Promoting the development and adoption of mHealth
+Infrastructure
+Lack of suitable courses available
+Insitutional educational policy does not include eLearning as an approach to teaching health sciences
+Lack of evidence that eLearning is effective
+Improving access to content and experts
+eLearning programmes for in-service training of health professionals have been evaluated
+Lack of demand for eLearning programmes
+Country has national EHR
+Lack of demand by health professionals and patients
+which allows individuals electronic access to their own health-related data when held in an EHR
+Country has national policy or strategy regulating the use of big data by private companies
+Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)
+Adult mortality rate (probability of dying between 15 and 60 years per 1000 population)
+Existence of evidence-based national guidelines/protocols/standards for the management of major NCDs through a primary care approach
+Implementation of physical activity public awareness program
+Existence of a set of time-bound national targets based on WHO guidance
+Number of pharmaceutical technicians/assistants
+Number of health management & support workers
+Pharmaceutical personnel density (per 1000 population)
+Population proportion under 15 (%)
+Population proportion over 60 (%)
+Total fertility rate (per woman)
+Total net official development assistance to medical research and basic health sectors per capita (US$), by recipient country
+Strategy implementation funding available for eHealth
+National eHealth strategy refers to objectives of UHC
+Institutions offer in-service training to health professionals on ICT for health
+Government-supported health internet sites provide information in multiple languages
+Tertiary institutions provide students of health sciences with training on eHealth
+Policy
+Government-sponsored mHealth programmes are being evaluated
+Strategy includes objectives as to how telehealth contributes to UHC
+Evaluation of any government-sponsored telehealth programmes
+Enabling access to education where learning facilities are limited
+Pre-service eLearning programmes have been evaluated
+Lack of funding
+Lack of national or international standards for interoperability of EHR
+Competing health system priorities
+National strategy does not promote the adoption of EHR
+lack of evidence showing effectiveness of EHR
+which allows for the sharing of personal and health data between research entities
+which allows individuals to demand the deletion of health-related data from their EHR
+Country has national policy or strategy on the use of social media by government organizations
+Capacity building required for new skills
+Research into new analytical methods needs occur to meet the challenges of working with big data
+Insufficient incentives for data sharing
+Existence of a register of patients who had rheumatic fever and rheumatic heart disease
+Has systems for follow-up/recall to deliver long-term penicillin prophylaxis to patients with rheumatic fever and rheumatic heart disease
+Average of 13 International Health Regulations core capacity scores, 1st version of the questionnaire
+Ambient and household air pollution attributable death rate (per 100 000 population)
+Ambient and household air pollution attributable death rate (per 100 000 population, age-standardized)
+Main sector for treatment for alcohol use disorders
+Household air pollution attributable deaths
+Household air pollution attributable death rate (per 100 000 population)
+Household air pollution attributable death rate (per 100 000 population, age-standardized)
+Household air pollution attributable DALYs
+Household air pollution attributable DALYs (per 100 000 population)
+Household air pollution attributable DALYs (per 100 000, age-standardized)
+Ambient air pollution attributable death rate (per 100 000 population)
+Ambient air pollution attributable death rate (per 100 000 population, age-standardized)
+Ambient air pollution attributable DALYs  (per 100 000 population)
+Ambient air pollution attributable DALYs  (per 100 000 population, age-standardized)
+Number of diarrhoea deaths from inadequate sanitation
+Number of diarrhoea DALYs from inadequate sanitation
+Number of diarrhoea deaths from inadequate water
+Number of diarrhoea DALYs from inadequate hygiene
+Number of diarrhoea deaths from inadequate water, sanitation and hygiene
+Number of diarrhoea DALYs from inadequate water, sanitation and hygiene
+Ambient air pollution attributable YLLs
+Alcohol, drinkers only per capita (15+)consumption in litres of pure alcohol
+Alcohol, average daily intake in grams among drinkers with 95%CI
+Biomedical engineers density (per 10 000 population)
+Number of biomedical technicians
+Alcohol, former drinkers (%)
+Alcohol dependence (15+ ), 12-month prevalence (%) with 95%CI
+Central coordinating entity for alcohol policy implementation
+Framework of national alcohol policy
+Population (in thousands) total
+Hepatitis B surface antigen (HBsAg) prevalence among children under 5 years (%)
+Donor/ non-public development funding for eHealth
+National universal health coverage strategy
+National  health information system (HIS) policy or strategy
+Public-private partnerships for eHealth
+Regulating mobile devices and software
+Regulatory oversight of mobile apps for quality, safety and reliability
+Providing guidance on privacy and security
+Legal
+Priorities
+Funding
+Lack of evidence over cost-effectiveness
+Not possible to gain a health sciences degree entirely through eLearning
+eLearning is used in pre-service education to teach health sciences students
+eLearning courses accredited by continuing medical education or professional licensing bodies
+Lack of infrastructure
+Competing educational priorities
+Country has specific legislation governing the use of national EHR system
+Lack of legislation or regulations covering use of EHR
+which allows individuals to demand that their own data be corrected  when held in an EHR if it is known to be inaccurate
+which governs the sharing of digital data between health professionals in other health services in the same country through the use of an EHR
+Lack of integration between various health services
+Country has  national policy or strategy regulating the use of big data in the health sector
+Proportion of women aged 20-24 years who were married or in a union by age 18 (%)
+Estimated direct deaths from major conflicts (per 100 000 population)
+Concentrations of fine particulate matter (PM2.5)
+Ambient air pollution attributable deaths in children under 5 years
+Household air pollution attributable deaths in children under 5 years
+Household air pollution attributable DALYs in children under 5 years
+Ambient air pollution attributable DALYs  in children under 5 years
+Attributable fraction of diarrhoea to inadequate water
+Number of diarrhoea deaths from inadequate hygiene
+Existence of tax on sugar-sweetened beverages
+Alcohol, total  (recorded + unrecorded) per capita (15+) consumption with 95%CI, projections to 2020 and 2025
+Number of biomedical engineers
+Alcohol, consumers past 12 months (%)
+Alcohol, harmful use (15+), 12 month prevalence (%) with 95%CI
+Adopted written national policy on alcohol, year adopted
+Level of adoption of national alcohol policy
+Sectors represented in national alcohol policy
+Advertising restrictions on cable television
+Advertising restrictions on national radio
+Advertising restrictions on local radio
+Advertising restrictions at cinemas
+Advertising restrictions at point-of-sale
+Advertising restrictions on the internet
+Advertising restrictions in print media
+Restrictions on product placement on national television
+Government support for community action
+Penalties for drink driving
+Price measures
+Off-premise sales restrictions on outlet density
+Off-premise sales restrictions at specific events
+Off-premise sales restrictions at petrol stations
+Off-premise sales restrictions on places
+On-premise sales restrictions on hours
+On-premise sales restrictions on days
+On-premise sales restrictions on places
+On-premise sales restrictions to intoxicated persons
+Restrictions on sponsorship of youth events
+Restrictions on sales promotion from owners of pubs and bars (alcohol for free)
+Restrictions on sponsorship of sporting events
+Licensing required for wholesale/distribution of alcoholic beverages
+Licensing required for imports of alcoholic beverages
+Licensing required for exports of alcoholic beverages
+Government monopoly on retail sales
+Government monopoly on production
+Lack of evidence showing cost-effectiveness or EHR
+to protect the privacy of individuals' health-related  data held in electronic format as an EHR
+to define medical jurisdiction, liability or reimbursement of eHealth services such as telehealth
+Policy or strategy makes specific reference tothe use of social media in the health domain
+which governs the sharing of digital data between health professionals  in health services in other countries through the use of an EHR
+to address patient safety and quality of care based on data quality, data transmission standards, or clinical competency criteria
+to protect privacy of personally identifiable data of individuals irrespective of whether it is paper or digital format
+Individuals have the legal right to specify which health-related data from their EHR can be shared with health professionals of their choice
+Effective standards and best practices for data capture not fully established
+Privacy and security laws need to be in place
+Children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development and learning (%)
+Births by caesarean section (%)
+Proportion of women aged 20-24 years who were married or in a union by age 15 (%)
+Ill-defined causes in cause-of-death registration (%)
+Existence of operational policy/strategy/action plan for oral health
+Attributable fraction of diarrhoea to inadequate sanitation
+Number of diarrhoea DALYs from inadequate water
+Attributable fraction of diarrhoea to inadequate water, sanitation and hygiene
+Alcohol, abstainers lifetime (%)
+Advertising restrictions on social media
+Advertising restrictions on billboards
+Restrictions on product placement on cable television
+Off-premise sales restrictions on days
+On-premise sales restrictions on outlet density
+Restrictions on sales promotion from retailers (sales below cost)
+On-premise sales restrictions at specific events
+Monopoly on exports of alcoholic beverages
+Monopoly on imports of alcoholic beverages
+Monopoly on wholesale /distribution of alcoholic beverages
+Licenses issued for retail sale, change since 2010
+Excise tax on alcoholic beverages
+Duty paid or excise stamp on alcohol container
+Taxation of ethanol production
+Restrictions on alcohol use in public places
+Health warning labels on alcohol advertising
+Alcohol content displayed on containers
+Licence required for production
+Licence required for retail sales
+Level of enforcement of BAC limits
+Licenses issued for production, change since 2010
+Awareness activities
+Legislation on alcohol testing at workplaces
+National system of epidemiological data collection for alcohol use
+15-19 years old heavy episodic drinkers (population), % with 95%CI
+15-19 years old heavy episodic drinkers (drinkers only), %
+Alcohol-attributable fractions (15+), cancer deaths
+Alcohol-attributable fractions, all-cause deaths (%)
+Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%)
+Prevalence of insufficient physical activity among adults aged 18+ years (crude estimate) (%)
+Age limits off-premise sales
+Alcohol, consumption of pure alcohol by type of beverage (%)
+National legislation to prevent illegal alcohol sales
+SDG 3.9.2 WASH deaths
+Attributable fraction of diarrhoea to inadequate hygiene
+Biomedical technicians density (per 10 000 population)
+Alcoholic beverage legally defined
+Adopted written national policy on alcohol, year revised
+Action Plan for implementation of alcohol policy
+Advertising restrictions on national television
+National legislation to prevent illegal alcohol
+Random breath testing (RBT) use
+Penalties for marketing infringements
+Detection of marketing infringements
+Restrictions on sales promotion from producers (parties, events)
+Licenses issued for wholesale/distribution, change since 2010
+Level of taxation adjusted for inflation
+Consumer information about calories, additives, etc on containers
+Number of standard alcoholic drinks displayed on containers
+National guidelines for alcohol problem prevention and counselling at workplaces
+Standard drink defined
+National surveys on adult alcohol consumption
+Report with data from health services on alcohol use and AUDs
+Heavy episodic drinking (youth 15 -19 years) past 30 days (%)
+Cancer, age-standardized death rates (15+), per 100,000 population
+Liver cirrhosis, age-standardized death rates (15+), per 100,000 population
+Road traffic injuries, age-standardized death rates (15+), per 100,000 population
+Alcohol-attributable fractions (15+), liver cirrhosis deaths (%)
+Age limits on-premise service
+Penalties for drink driving, repeated offense
+Alcohol, heavy episodic drinking (population) past 30 days (%)
+Alcohol, heavy episodic drinking (15+), drinkers only, past 30 days (%)
+Restrictions on product placement in films/movies
+Alcoholic excise tax revenue as a per cent of government revenue
+Annual revenues from alcohol excise tax in millions US$
+Alcohol expenditure as a per cent of total household expenditure
+Average price 500 mls Spirits in US$
+Distribution of causes of death among children aged < 5 years (%)
+Deaths per 1 000 live births
+Adopted written national policy on alcohol
+Sobriety checkpoints
+Off-premise sales restrictions on hours
+Value-added tax (VAT) on alcohol (%)
+Health warning labels on under-age drinking
+Health warning labels on pregnancy
+Health warning labels on drink-driving
+Ethanol tax deducted from excise tax
+Alcohol use disorders (15+), 12 month prevalence (%) with 95%
+National guidelines for the prevention and reduction of alcohol-related harm in schools
+National systems for monitoring alcohol consumption and harms
+National surveys on youth alcohol consumption
+Report with epidemiological data on lcohol use and AUDs
+National organization for monitoring alcohol
+Alcohol-attributable Years of Life Lost (YLL) score
+Alcohol-attributable fractions (15+), road traffic crash deaths (%)
+Alcohol, heavy episodic drinking (15+) past 30 days (%), age-standardized with 95%CI
+Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol), three-year average with 95%CI
+Average price 750 mls Wine in US$
+Tax incentives for production low/no alcohol content beer
+Tax incentives for production of other alcoholic beverages
+Legal requirement for size of health warning labels
+Health warning labels on alcohol containers
+Server training
+National system of data collection based on health service delivery
+National drinking guidelines
+Graduated licensing
+Alcohol use disorders (15+), 12 month prevalence (%), age standardized, with 95%CI
+15-19 years old, current drinkers (%)
+Legal blood alcohol concentration (BAC) limits
+Heavy episodic drinking (youth 15 -19 years), drinkers only, past 30 days (%)
+Average price 500 mls Beer in US$
+Availability of estimates on impoverishment due to out-of-pocket health expenditures
+Leprosy - Number of cases registered for treatment
+Leprosy - Number of new G2D cases
+Leprosy - Number of new child (less than 15 years of age) cases
+Leprosy - Number of new child (less than 15 years of age) cases detected with G2D
+Leprosy - Number of female new cases
+Status of endemicity of Taenia solium
+Leprosy - New leprosy cases with G2D rate per 1 000 000 population
+Leprosy - New cases detection rate per 100 000 population
+Leprosy - Registered cases per 10 000 population
+Malaria - number of reported deaths
+Malaria - number of reported confirmed cases
+Average death rate due to natural disasters (per 100 000 population)
+Infants exclusively breastfed for the first six months of life (%)
+Participation rate in organized learning (one year before the official primary entry age) (%)
+Proportion of children in grades 2/3 achieving at least a minimum proficiency level in mathematics (%)
+Proportion of children at the end of lower secondary achieving at least a minimum proficiency level in mathematics (%)
+Proportion of children at the end of lower secondary achieving at least a minimum proficiency level in reading (%)
+Proportion of children at the end of primary achieving at least a minimum proficiency level in reading (%)
+Publication year of the policy or plan (latest revision)
+Mental hospitals (per 100 000 population)
+Beds in mental hospitals (per 100 000 population)
+Mental health units in general hospitals (per 100 000 population)
+Beds for mental health in general hospitals (per 100 000 population)
+Community residential facilities (per 100 000 population)
+Availability of estimates on large health expenditures as a share of total expenditure or income
+Number of pigs in the country
+Practice of backyard pig production
+Mortality rate attributed to exposure to unsafe WASH services (per 100 000 population) (SDG 3.9.2)
+Estimated number of malaria cases
+Estimated number of malaria deaths
+Completeness of cause-of-death data (%)
+Proportion of children at the end of primary achieving at least a minimum proficiency level in mathematics (%)
+Psychiatrists working in mental health sector (per 100 000 population)
+Nurses working in mental health sector (per 100 000 population)
+Beds in community residential facilities (per 100 000 population)
+Mental health day treatment facilities (per 100 000 population)
+Early initiation of breastfeeding (%)
+Low birth weight, prevalence (%)
+Low birth weight (in thousands)
+Population using safely managed drinking-water services (%)
+Population using at least basic drinking-water services (%)
+Population using safely managed sanitation services (%)
+Proportion of newborns who have postnatal contact with a health provider within 2 days of delivery (%)
+Proportion of children in grades 2/3 achieving at least a minimum proficiency level in reading (%)
+Psychologists working in mental health sector (per 100 000 population)
+Social workers working in mental health sector (per 100 000 population)
+Mental health outpatient facilities (per 100 000 population)
+Children aged <5 years with diarrhoea receiving ORS (%)
+Average of 13 International Health Regulations core capacity scores, SPAR version
+Proportion of children aged 6-23 months who receive a minimum acceptable diet
+Population using at least basic sanitation services (%)
+Population practising open defecation (%)
+Population with basic handwashing facilities at home (%)
+Proportion of population below the international poverty line of US$1.90 per day (%)
+Number of new leprosy cases
+Presence of porcine cysticercosis
+Year the law was enacted (latest revision)
+Women age 15-49 years who received a health check within 2 days after delivery of their most recent live birth in the last 2 years (%)
+UHC SCI components:  Infectious diseases
+UHC SCI components: Noncommunicable diseases
+UHC SCI components: Service capacity and access
+Poliomyelitis - number of reported cases
+Number of maternal deaths
+Maternal mortality ratio (per 100 000 live births)
+Prevalence of insufficient physical activity among school going adolescents aged 11-17 (crude estimate)
+Increase in poverty gap due to household health expenditures at the $1.90 a day poverty line, in cents of international dollars
+Population pushed below the $3.20 a day poverty line by household health expenditures (%)
+Population with household expenditures on health greater than 25% of total household expenditure or income (SDG indicator 3.8.2) (%)
+Population pushed below the $1.90 a day poverty line by household health expenditures (%)
+Increase in poverty gap due to household health expenditures, expressed as a proportion of the $3.20 a day poverty line (%)
+Increase in poverty gap due to household health expenditures at the $3.20 a day poverty line, in cents of international dollars
+Increase in poverty gap due to household health expenditures, expressed as a proportion of the $1.90 a day poverty line (%)
+Population with household expenditures on health greater than 10% of total household expenditure or income (SDG indicator 3.8.2) (%)
+Number of imported cases of visceral leishmaniasis reported
+Reported number of tests performed where results were received by a person (testing volume)
+Reported number of tests performed where results were received by a person (testing volume), reporting period
+Estimated number of tests performed where results were received by a person (testing volume), estimated number per 1000 population
+Number of registered vehicles
+Existence of national policies on saturated fatty acids
+Existence of national policies on trans-fatty acid elimination
+Prevalence of current tobacco use among persons aged 15 years and older (age-standardized rate)
+Persistence to last grade of primary (% of cohort)
+Alcohol, total per capita (15+) consumption (in litres of pure alcohol) with 95%CI
+Formative research was conducted prior to the campaign
+Outcome evaluation was employed to assess effectiveness of the campaign
+Campaign was pre-tested
+Data availability for UHC index of service coverage
+Population pushed below a relative poverty line by household health expenditures (60% of median daily per capita consumption or income) (%)
+General availability of Angiotensin II receptor blockers (ARBs) in the public health sector
+Distribution of road traffic deaths by type of road user (%)
+Campaign was part of a comprehensive tobacco control programme
+Campaign utilized media planning
+At least one national mass media campaign ran during the survey period
+Campaign ran on both national television and radio
+Enforce bans on tobacco advertising
+Ban on advertising on national television and radio
+Ban on identifying non-tobacco products with tobacco brand names
+Ban on use of brand name of non-tobacco product for tobacco product
+Ban on appearance of tobacco products in TV and/or films
+Ban on any form of contribution (financial or other support) to any event, activity or individual
+Banning the publicity of financial or other sponsorship or support by the tobacco industry of events, activities, individuals
+Ban on tobacco companies/the tobacco industry publicizing their CSR activities
+Ban on entities other than tobacco companies/the tobacco industry publicizing the CSR activities of the tobacco companies/industry
+Law requires fines for violations of advertising bans
+Ban on tobacco vending machines
+Ban on internet sales of tobacco products
+Ban on advertising in international magazines and newspapers
+Ban on billboard and outdoor advertising
+Ban on product display at point of sale
+Ban on advertising on the internet
+Monitor
+National agency for tobacco control exists
+National tobacco control budget - currency reported
+Number of full-time equivalent staff in national agency
+Government objectives on tobacco control exist
+Bupropion - cost covered
+Cytisine - cost covered
+Cytisine - legally sold
+Offer help to quit tobacco use
+Smoking cessation support is cost-covered in the community
+Smoking cessation support is cost-covered in hospitals
+Smoking cessation support is cost-covered in offices of health professionals
+Nicotine replacement therapy - cost covered
+Varenicline - cost covered
+Compliance with smoke-free education facilities except universities law (score)
+Compliance with smoke-free indoor offices law (score)
+Compliance with smoke-free public transport law (score)
+Protect from tobacco smoke
+Smoke-free health-care facilities (national legislation)
+Fines for violations of smoke-free laws
+Fines on the establishment for violations of smoke-free laws
+Dedicated funds for enforcement of smoke-free laws
+Citizen complaints and investigations of violations of smoke-free laws
+Smoke-free universities (national legislation)
+Smoke-free government facilities (national legislation)
+Smoke-free restaurants (national legislation)
+Smoke-free pubs, bars and cafés (national legislation)
+Smoke-free other indoor public places (national legislation)
+Most sold brand of cigarettes - taxes as a % of price - ad valorem excise
+Data availability for UHC index of service coverage (ranking)
+Increase in poverty gap due to household health expenditures, expressed as a proportion of a relative poverty line (60% of median daily per capita consumption or income) (%)
+General availability of bone marrow transplantation in the public health system
+ICD-11 implementation progress level
+Antenatal care coverage - at least four visits (%)
+Process evaluation was employed to assess implementation of the campaign
+Earned media/public relations were used to promote the campaign
+Compliance with ban on advertising on national television and radio (score)
+Compliance with ban on promotional discounts (score)
+Compliance with ban on sponsorship (contributions and/or publicity of contributions) (score)
+Compliance with ban on advertising in local magazines and newspapers (score)
+Subnational bans on advertising, promotion and sponsorship - at least one jurisdiction has a comprehensive ban in place
+Ban on promotional discounts
+Ban on appearance of tobacco brands in TV and/or films (product placement)
+Ban on sponsorship (contributions and/or publicity of contributions)
+Ban on Corporate Social Responsibility activities (CSR)
+Ban on tobacco companies funding or making contributions (including in-kind contributions) to smoking prevention media campaigns, including those directed at youth
+Ban on advertising on international television and radio
+Law requires fines for violations of promotion and sponsorship bans
+Subnational bans on tobacco advertising, promotion and sponsorship authority exists
+Ban on advertising in local magazines and newspapers
+Ban on advertising at point of sale
+Ban on free distribution in mail or through other means
+Budget year
+Annual budget for tobacco control in currency reported
+Cytisine - place available
+Smoking cessation support is cost-covered in health clinics or other primary care facilities
+Smoking cessation support is cost-covered in other settings
+Nicotine replacement therapy - on the Essential Medicines List
+Compliance with smoke-free universities law (score)
+Compliance with smoke-free government facilities law (score)
+Subnational smoking bans - at least one jurisdiction has a comprehensive ban in place
+Number of places smoke-free (national legislation)
+Subnational smoke-free legislation authority exists
+Fines on the patrons of establishments for violations of smoke-free laws
+Smoke-free education facilities except universities (national legislation)
+Smoke-free indoor offices (national legislation)
+Smoke-free public transport (national legislation)
+Affordability - percentage of GDP per capita required to purchase 2000 cigarettes of the most sold brand
+Minimum specific tax applied in ad valorem or mixed excise regime
+Raise taxes on tobacco
+Most sold brand of cigarettes - taxes as a % of price - import duties
+Most sold brand of cigarettes - taxes as a % of price - other taxes
+Most sold brand of cigarettes - taxes as a % of price - specific excise
+Most sold brand of cigarettes - taxes as a % of price - total tax
+Most sold brand of cigarettes - taxes as a % of price - value added tax
+Tobacco tax revenues - currency reported
+Tobacco tax revenues - total excise (specific and ad valorem)
+Tobacco tax revenues - year reported
+Warn about the dangers of tobacco
+Law mandates that health warnings appear on cigarette packages
+Health warnings on cigarette packaging must include a photograph or graphic
+Health warnings appear on each cigarette package and any outside packaging and labelling used in the retail sale
+Health warnings on cigarette packaging law applys to products whether manufactured domestically imported AND for duty-free sale
+Health warnings on cigarette packaging do not remove or diminish the liability of the tobacco industry
+Health warnings on cigarette packaging describe the harmful effects of tobacco use on health
+Specific health warnings are mandated for cigarette packaging
+Number of health warnings approved by the law for cigarette packaging
+Health warnings on cigarette packaging law requires or establishes fines for violations
+Ban on deceitful terms on cigarette packaging
+Cigarette packaging and labelling must not use figurative or other signs including colors or numbers as substitutes for prohibited misleading terms and descriptors
+Percentage of principal display area mandated to be covered by health warnings - front and back of cigarette packaging
+Cigarette packaging and labelling must not use descriptors depicting flavours
+Cigarette packaging and labelling must display qualitative information on emission yields
+Emission yields must be displayed on one or more principle display areas of cigarette packaging
+Display of expiry dates is prevented on cigarette packaging
+The quit line number must appear on cigarette packaging or labelling
+Plain packaging of cigarettes is mandatory (ie. the use of logos colours brand images or promotional information on packaging other than brand names and product names displayed in a standard colour and font style is prohibited)
+Percentage of principal display area mandated to be covered by health warnings - back of cigarette packaging
+Health warnings on cigarette packaging must be placed at the top of the principal display areas of the package
+Font style, font size and colour of health warnings are mandated for cigarette packaging
+Health warnings on cigarette packaging must be rotated
+Health warnings on cigarette packaging must be written in the principal language(s) of the country
+Health warnings on cigarette packaging must not be obscured in any way including by required markings such as tax stamps
+Anti-tobacco mass media campaigns
+Name of latest youth prevalence survey (nonsmoked)
+Prevalence of current tobacco use among adolescents (%)
+Proportion of ever-partnered women and girls aged 15-49 years subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months
+UHC SCI components: Reproductive, maternal, newborn and child health
+Status of endemicity of onchocerciasis
+Overall compliance with bans on direct advertising (score)
+Compliance with ban on indentifying non-tobacco products with tobacco brand names (score)
+Compliance with ban on appearance of tobacco brands in TV and/or films (score)
+Compliance with ban on advertising at point of sale (score)
+Compliance with ban on free distribution in mail or through other means (score)
+Overall compliance with regulations on smoke-free environments (score)
+Compliance with smoke-free health-care facilities law (score)
+Compliance with smoke-free restaurants law (score)
+Compliance with smoke-free pubs and bars law (score)
+Tax stamps, fiscal marks, banderole or other types of marking are applied on cigarettes
+Tax stamps, fiscal marks, banderole or other types of marking are applied on other tobacco products
+Type of excise tax applied.
+Tobacco tax revenues - import duties and all other taxes
+Tobacco tax revenues - tobacco product types included
+Year of most recent survey of adults
+Representativeness of most recent adolescent survey
+Age range of latest youth prevalence survey (nonsmoked)
+Prevalence of daily tobacco use among adolescents (%)
+Prevalence of daily tobacco smoking among adolescents (%)
+Prevalence of daily cigarette smoking among adolescents (%)
+Prevalence of daily smokeless tobacco use among adolescents (%)
+Prevalence of daily e-cigarette use among adolescents (%)
+Prevalence of daily tobacco use among adults (%)
+Prevalence of daily tobacco smoking among adults (%)
+Prevalence of daily cigarette smoking among adults (%)
+Prevalence of daily smokeless tobacco use among adults (%)
+Prevalence of daily e-cigarette use among adults (%)
+Mean fasting blood glucose (mmol/l) (age-standardized estimate)
+Overall compliance with bans on promotion and sponsorship (score)
+Compliance with ban on use of brand name of non-tobacco product for tobacco product (score)
+Compliance with ban on appearance of tobacco products in TV and/or films (score)
+Compliance with ban on billboard and outdoor advertising (score)
+Ban on sale of duty-free or excise-free cigarettes
+Affordability - category of change since 2008 (more affordable/less affordable/no change)
+Specific tax component automatically adjusted for inflation (or other)
+Reported use of earmarked tobacco taxes
+Greater reliance on specific tax  in mixed excise regime
+Representativeness of most recent survey of adults
+Title of most recent survey of adults
+Year of latest adult prevalence survey (nonsmoked)
+Age range of latest adult prevalence survey (nonsmoked)
+Age range of most recent adolescent survey
+Year of latest youth prevalence survey (nonsmoked)
+Prevalence of current tobacco smoking among adolescents (%)
+Prevalence of current cigarette smoking among adolescents (%)
+Prevalence of current smokeless tobacco use among adolescents (%)
+Prevalence of current e-cigarette use among adolescents (%)
+Prevalence of current tobacco use among adults (%)
+Prevalence of current tobacco smoking among adults (%)
+Prevalence of current cigarette smoking among adults (%)
+Prevalence of current smokeless tobacco use among adults (%)
+Prevalence of current e-cigarette use among adults (%)
+Institutional Births (birth taken place in a facility) (%)
+Maximum speed limits
+Law requires helmet to be fastened
+Applicability of national motorcycle helmet law to all occupants
+Existence of a national drink-driving law
+Existence of a national road safety strategy
+Vehicle standards
+Estimate of daily tobacco use prevalence (%)
+Estimate of daily cigarette smoking prevalence (%)
+Estimate of daily cigarette smoking prevalence (%) (age-standardized rate)
+Estimate of daily tobacco smoking prevalence (%) (age-standardized rate)
+Estimate of current cigarette smoking prevalence (%) (age-standardized rate)
+Estimate of current tobacco use prevalence (%) (age-standardized rate)
+Estimate of current tobacco smoking prevalence (%) (age-standardized rate)
+Estimate of current tobacco use prevalence (%)
+Estimate of current tobacco smoking prevalence (%)
+Estimate of current cigarette smoking prevalence (%)
+Estimate of daily tobacco smoking prevalence (%)
+Estimate of daily tobacco use prevalence (%) (age-standardized rate)
+Health warnings on other smoked tobacco packaging do not remove or diminish the liability of the tobacco industry
+Other smoked tobacco packaging and labelling must not use descriptors depicting flavours
+Other smoked tobacco packaging and labelling must not display quantitative information on emission yields (such as tar nicotine and carbon monoxide) including when used as part of a brand name or trademark
+Display of expiry dates is prevented on other smoked tobacco packaging
+Plain packaging of other smoked tobacco products is mandatory (ie. the use of logos colours brand images or promotional information on packaging other than brand names and product names displayed in a standard colour and font style is prohibited)
+Health warnings on other smoked tobacco packaging must be placed at the top of the principal display areas of the package
+Law mandates that health warnings appear on smokeless tobacco packages
+Health warnings on smokeless tobacco packaging must include a photograph or graphic
+Health warnings appear on each smokeless tobacco package and any outside packaging and labelling used in the retail sale
+Health warnings on smokeless tobacco packaging describe the harmful effects of tobacco use on health
+Health warnings on smokeless tobacco packaging must be rotated
+Font style, font size and colour of health warnings are mandated for smokeless tobacco packaging
+Health warnings on smokeless tobacco packaging must be written in the principal language(s) of the country
+Health warnings on smokeless tobacco packaging must be placed at the top of the principal display areas of the package
+Display of expiry dates is prevented on smokeless tobacco packaging
+Plain packaging of smokeless tobacco products is mandatory (ie. the use of logos colours brand images or promotional information on packaging other than brand names and product names displayed in a standard colour and font style is prohibited)
+Health warnings on smokeless tobacco packaging law applys to products whether manufactured domestically imported AND for duty-free sale
+Health warnings on smokeless tobacco packaging law requires or establishes fines for violations
+Ban on deceitful terms on smokeless tobacco packaging
+Emission yields must be displayed on one or more principle display areas of smokeless tobacco packaging
+Health warnings on smokeless tobacco packaging do not remove or diminish the liability of the tobacco industry
+Price dispersion: Share of cheapest brand price in premium brand price (%) (the higher the % the smaller the gap)
+Retail price used as base of ad valorem component in ad valorem or mixed excise regime (or retail price exclusive of VAT)
+Uniform excise tax applied Yes (Uniform), No (Tiered/varying rates)
+A minimum price policy is implemented
+Tobacco tax revenues - total revenues
+Tobacco tax revenues - valued added tax (VAT) and other sales taxes
+Age range of most recent survey of adults
+Name of latest adult prevalence survey (nonsmoked)
+Representation of latest adult prevalence survey (nonsmoked)
+Year of most recent adolescent survey
+Title of most recent adolescent survey
+Representation of latest youth prevalence survey (nonsmoked)
+Existence of national speed limits
+Law mandates that health warnings appear on other smoked tobacco packages
+Health warnings on other smoked tobacco packaging law applys to products whether manufactured domestically imported AND for duty-free sale
+Health warnings on other smoked tobacco packaging law requires or establishes fines for violations
+Ban on deceitful terms on other smoked tobacco packaging
+Other smoked tobacco packaging and labelling must not use figurative or other signs including colors or numbers as substitutes for prohibited misleading terms and descriptors
+Other smoked tobacco packaging and labelling must display qualitative information on emission yields
+Emission yields must be displayed on one or more principle display areas of other smoked tobacco packaging
+The quit line number must appear on other smoked tobacco packaging or labelling
+Health warnings on other smoked tobacco packaging must not be obscured in any way including by required markings such as tax stamps
+Ban on sale of smokeless tobacco products
+Number of health warnings approved by the law for smokeless tobacco packaging
+Smokeless tobacco packaging and labelling must display qualitative information on emission yields
+Health warnings on smokeless tobacco packaging must not be obscured in any way including by required markings such as tax stamps
+Smokeless tobacco packaging and labelling must not use figurative or other signs including colors or numbers as substitutes for prohibited misleading terms and descriptors
+Smokeless tobacco packaging and labelling must not use descriptors depicting flavours
+The quit line number must appear on smokeless tobacco packaging or labelling
+Smokeless tobacco packaging and labelling must not display quantitative information on emission yields (such as tar nicotine and carbon monoxide) including when used as part of a brand name or trademark
+Specific health warnings are mandated for smokeless tobacco packaging
+Percentage of principal display area mandated to be covered by health warnings - front of smokeless tobacco packaging
+Hospital beds (per 10 000 population)
+Number of new HIV infections
+Estimated number of people (all ages) living with HIV
+Reported number of people receiving antiretroviral therapy
+Number of deaths due to HIV/AIDS
+Number of pregnant women living with HIV who received antiretrovirals (excluding single dose Nevirapine)  for preventing mother-to-child transmission
+Estimated percentage of pregnant women living with HIV who received antiretrovirals for preventing mother-to-child transmission
+Estimated antiretroviral therapy coverage among children
+Reported number of children receiving antiretroviral therapy
+Prevalence of HIV among adults aged 15 to 49 (%)
+Estimated antiretroviral therapy coverage among people living with HIV (%)
+Estimated number of children needing antiretroviral therapy based on WHO methods
+Estimated number of pregnant women living with HIV needing antiretrovirals for preventing mother-to-child transmission based on WHO methods
+Cheapest brand of cigarettes - price in currency reported
+Most sold brand of cigarettes - currency reported
+Most sold brand of cigarettes - price in currency reported
+Premium brand of cigarettes - price in currency reported
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%)
+Rotavirus vaccines completed dose (RotaC) immunization coverage among 1-year-olds (%)
+Diphtheria tetanus toxoid and pertussis (DTP3) immunization coverage among 1-year-olds (%)
+Hepatitis B (HepB3) immunization coverage among 1-year-olds (%)
+Hib (Hib3) immunization coverage among 1-year-olds (%)
+BCG immunization coverage among 1-year-olds (%)
+Polio (Pol3) immunization coverage among 1-year-olds (%)
+Measles-containing-vaccine first-dose (MCV1) immunization coverage among 1-year-olds (%)
+New HIV infections (per 1000 uninfected population)
+Adolescent fertility rate (births per 1000 women aged 15-19 years)
+Early initiation of breastfeeding (in the two years preceding the survey) (%)
+Children aged < 5 years sleeping under insecticide-treated nets (%)
+Children aged < 5 years with diarrhoea receiving oral rehydration salts (%)
+Children aged < 5 years with diarrhoea receiving oral rehydration therapy and continued feeding (%)
+Children aged 6-59 months who received vitamin A supplementation (%)
+Antenatal care coverage - at least one visit (in the two or three years preceding the survey) (%)
+Alcohol, abstainers past 12 months (%)
+Blood Alcohol Concentration (BAC) limit for drivers
+Applicability of seat-belt law to all occupants
+Seat-belt wearing rate (%)
+Existence of a national child-restraint law
+Existence of a road safety lead agency
+Percentage of principal display area mandated to be covered by health warnings - front and back of smokeless tobacco packaging
+Percentage of principal display area mandated to be covered by health warnings - back of smokeless tobacco packaging
+Children aged < 5 years with pneumonia symptoms taken to a healthcare provider (%)
+Percentage of principal display area mandated to be covered by health warnings - front of cigarette packaging
+Pneumococcal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%)
+Antenatal care coverage - at least one visit (in the five years preceding the survey) (%)
+Children aged < 5 years with pneumonia symptoms taken to a health facility (%)
+Contraceptive prevalence - use of modern methods (%)
+Contraceptive prevalence - use of modern and traditional methods (%)
+Demand for family planning satisfied - use of modern methods (%)
+Infant mortality rate (deaths per 1000 live births)
+Pregnant women sleeping under insecticide-treated nets (%)
+Neonatal mortality rate (deaths per 1000 live births)
+Births attended by skilled health personnel (in the five years preceding the survey) (%)
+Total fertility rate (births per woman)
+Under-five mortality rate (deaths per 1000 live births)
+Demand for family planning satisfied - use of modern and traditional methods (%)
+Antenatal care coverage - at least four visits (in the two or three years preceding the survey) (%)
+Births by caesarean section (in the two or three years preceding the survey) (%)
+Births attended by skilled health personnel (in the two or three years preceding the survey) (%)
+Overweight prevalence in children aged < 5 years (%)
+Existence of a national seat-belt law
+Definition of drink-driving by BAC
+Attribution of road traffic deaths to alcohol (%)
+Availability of funding for national road safety strategy
+Existence of a universal access telephone number for pre-hospital care
+Antenatal care coverage - at least four visits (in the five years preceding the survey) (%)
+Births by caesarean section (in the five years preceding the survey) (%)
+Severe wasting prevalence in children aged < 5 years (%)
+Status of yaws endemicity
+Wasting prevalence in children aged < 5 years (%)
+Stunting prevalence in children aged < 5 years (%)
+Tuberculosis effective treatment coverage (%)
+New child (less than 15 years of age) leprosy cases rate per 1 000 000 population of children
+Neonates protected at birth against neonatal tetanus (PAB) (%)
+Number of under-five deaths
+Number of infant deaths
+Number of neonatal deaths
+Infant mortality rate (probability of dying between birth and age 1 per 1000 live births)
+Under-five mortality rate (probability of dying by age 5 per 1000 live births)
+Proportion of vaccination cards seen (%)
+Neonatal mortality rate (per 1000 live births)
+Deaths due to tuberculosis among HIV-negative people (per 100 000 population)
+Incidence of tuberculosis (per 100 000 population per year)
+Tuberculosis treatment coverage
+New cases tested for RR-/MDR-TB (%)
+Previously treated cases tested for RR-/MDR-TB (%)
+Treatment success rate for patients treated for MDR-TB (%)
+Cases started on MDR-TB treatment
+Treatment success rate: new TB cases
+Treatment success rate: previously treated TB cases
+Treatment success rate: HIV-positive TB cases
+Treatment success rate: XDR-TB cases
+Number of incident tuberculosis cases
+Estimated number of MDR/RR-TB incident cases
+Incidence of tuberculosis (per 100 000 population) (HIV-positive cases)
+Number of incident tuberculosis cases,  (HIV-positive cases)
+Number of deaths due to tuberculosis, excluding HIV
+HIV-positive TB patients on ART (antiretroviral therapy) (%)
+TB patients with known HIV status (%)
+Tested TB patients HIV-positive (%)
+New cases: extrapulmonary
+New or unknown treatment history cases: Pulmonary, bacteriologically confirmed
+New cases: Pulmonary, smear-negative/unknown/not done and other new cases
+New cases: Pulmonary, smear-positive
+Treatment history unknown
+Previously treated  cases, excluding relapse
+Relapse cases (pre-2013 definition)
+Relapse cases: Pulmonary, clinically diagnosed
+Relapse cases: extrapulmonary
+Confirmed cases of RR-/MDR-TB
+Stillbirth rate (per 1000 total births)
+UHC index of service coverage (SCI)
+Number of reported cases of poliomyelitis by wild poliovirus (WPV)
+New or unknown treatment history cases: Pulmonary, clinically diagnosed
+Relapse cases: Pulmonary, bacteriologically confirmed
+Radon in building regulations for existing buildings i.e. renovation/remodeling/major alteration
+Radon in national drinking-water regulations
+Existence of national reference level for dwellings
+Reference level for dwellings (Bq/m3)
+Financial support provided for mitigation (existing dwellings)
+Authorization required for prevention/mitigation service providers
+Official standards/guidelines for prevention/mitigation
+Existence of training for mitigation providers
+Total tetanus - number of reported cases
+Pertussis - number of reported cases
+Mumps - number of reported cases
+Diphtheria - number of reported cases
+Yellow fever - number of reported cases
+Congenital Rubella Syndrome - number of reported cases
+Measles - number of reported cases
+Neonatal tetanus - number of reported cases
+Legislation and Financing
+Zoonotic Events and the Human-animal Interface
+Food Safety
+Human Resources
+National Health Emergency Framework
+Health Service Provision
+Risk Communication
+Life expectancy at birth (years)
+Healthy life expectancy (HALE) at birth (years)
+Life expectancy at age 60 (years)
+Healthy life expectancy (HALE) at age 60 (years)
+nMx - age-specific death rate between ages x and x+n
+Total rubella - number of reported cases
+National radon concentration levels
+Existence of national radon database
+ndx - number of people dying between ages x and x+n
+Indicator 16.2.1: Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month
+Number of incident tuberculosis cases in children aged 0 - 14
+Existence of national radon regulations
+Radon in building regulations for new buildings
+Existence of national reference level for buildings with high public occupancy
+Existence of national reference level for workplaces
+Existence of official protocols for radon measurements
+Radon concentration measurements for workplaces
+Mandatory preventive measures (new buildings)
+Existence of national radon risk communication strategy
+Inclusion of radon in different national strategies
+Existence of any national radon activity
+Existence of national radon survey(s)
+Data in national radon database
+IHR Coordination and National IHR Focal Point Functions
+Points of Entry
+Chemical Events
+Radiation Emergencies
+Reference level for buildings with high public occupancy (Bq/m3)
+Reference level for workplaces (Bq/m3)
+Authorization/accreditation required for official radon measurement providers
+Mandatory mitigation measures if legal value is exceeded (existing buildings)
+Inclusion of radon education for building professionals
+Inclusion of radon measurements in property transactions
+Existence of any subnational radon activity
+Existence of national radon map
+Existence of national radon action plan
+Existence of national radon action plan - Years covered
+Radon concentration measurements for new buildings
+Radon concentration measurements for existing buildings
+nqx - probability of dying between ages x and x+n
+lx - number of people left alive at age x
+nLx - person-years lived between ages x and x+n
+Tx - person-years lived above age x
+ex - expectation of life at age x
+Population with primary reliance on clean fuels and technologies for cooking (in millions)
+Proportion of population with primary reliance on clean fuels and technologies for cooking (%)
+Population with primary reliance on polluting fuels and technologies for cooking (in millions)
+Proportion of population with primary reliance on polluting fuels and technologies for cooking (%)
+Current health expenditure (CHE) per capita in PPP int$
+Current health expenditure (CHE) per capita in US$
+Current health expenditure (CHE) as percentage of gross domestic product (GDP) (%)
+External health expenditure (EXT) per capita in PPP int$
+External health expenditure (EXT) per capita in US$
+External health expenditure (EXT) as percentage of current health expenditure (CHE) (%)
+Domestic general government health expenditure (GGHE-D) per capita in PPP int$
+Domestic general government health expenditure (GGHE-D) per capita in US$
+Domestic general government health expenditure (GGHE-D) as percentage of current health expenditure (CHE) (%)
+Domestic general government health expenditure (GGHE-D) as percentage of gross domestic product (GDP) (%)
+Domestic general government health expenditure (GGHE-D) as percentage of general government expenditure (GGE) (%)
+Out-of-pocket expenditure (OOP) per capita in PPP int$
+Out-of-pocket expenditure (OOP) per capita in US$
+Out-of-pocket expenditure as percentage of current health expenditure (CHE) (%)
+Domestic private health expenditure (PVT-D) per capita in PPP int$
+Domestic private health expenditure (PVT-D) per capita in US$
+Domestic private health expenditure (PVT-D) as percentage of current health expenditure (CHE) (%)
+Age-standardized suicide rates (per 100 000 population)
+Total NCD Deaths (in thousands)
+Status of endemicity of cutaneous leishmaniasis
+Status of endemicity of visceral leishmaniasis
+Probability (%) of dying between age 30 and exact age 70 from any of cardiovascular disease, cancer, diabetes, or chronic respiratory disease
+Estimated number of road traffic deaths
+Estimated road traffic death rate (per 100 000 population)
+Number of deaths attributed to non-communicable diseases, by type of disease and sex
+Mortality rate attributed to unintentional poisoning (per 100 000 population)
+Crude suicide rates (per 100 000 population)
+Estimates of number of homicides
+Estimates of rates of homicides per 100 000 population
+Age-standardized NCD mortality rate  (per 100 000 population)
+Legally-binding controls on lead paint
+Nursing and midwifery personnel  (number)
+Dental Assistants and Therapists (number)
+Dentists (number)
+Nursing personnel (number)
+Medical doctors not further defined (number)
+Specialist medical practitioners (number)
+Generalist medical practitioners (number)
+Medical doctors (number)
+Nursing and midwifery personnel (per 10 000 population)
+Dentists (per 10 000 population)
+Medical and Pathology Laboratory Technicians (number)
+Pharmaceutical Technicians and Assistants (number)
+Pharmacists (number)
+Midwifery personnel (number)
+Medical doctors (per 10 000 population)
+Nursing personnel (%)
+NLIS: Population using improved sanitation facility (%)
+Births in baby-friendly facilities (%)
+Traditional and Complementary Medicine Professionals  (number)
+Environmental and Occupational Health Inspectors and Associates (number)
+Dental Prosthetic Technicians (number)
+Population below the international poverty line (%)
+International Code on Marketing of Breast-milk Substitutes: Legal status of the Code
+Medical doctors (%)
+NLIS: Population using improved drinking-water sources (%)
+GDP per capita annual growth rate (%)
+Reported number of people requiring interventions against NTDs
+Women of reproductive age (15−49 years) who are married or in-union who have their need for family planning satisfied with modern methods (%), UNPD
+Premature deaths due to noncommunicable diseases (NCD) as a proportion of all NCD deaths (%)
+Births attended by skilled health personnel (%)
+Women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods (%)
+Adolescent birth rate (per 1000 women aged 15-19 years)
+Girls aged 15 years old that received the recommended doses of HPV vaccine (%)
+Maternity protection: Compliance with international labour standards
+Number of women of reproductive age (aged 15-49 years) with anaemia (thousands)
+Number of non-pregnant women (aged 15-49 years) with anaemia (thousands)
+Malaria incidence (per 1 000 population at risk)
+Prevalence of wasted children under 5 years of age   (% weight-for-height <-2 SD)
+Alcohol, total per capita (15+) consumption (in litres of pure alcohol) (SDG Indicator 3.5.2)
+Overweight prevalence among children under 5 years of age (%)
+Stunting prevalence among children under 5 years of age (%)
+Best-practice policy implemented for industrially produced trans-fatty acids (TFA) (Y/N)
+Prevalence of anaemia in pregnant women (aged 15-49) (%)
+Prevalence of anaemia in non-pregnant women (aged 15-49) (%)
+Prevalence of anaemia in children aged 6–59 months (%)
+Number of children aged 6–59 months with anaemia (thousands)
+Proportion of ever-partnered women and girls aged 15–49 years subjected to physical and/or sexual violence by a current or former intimate partner in their lifetime
+Number of pregnant women (aged 15-49 years) with anaemia (thousands)
+Prevalence of severely wasted children under 5 years of age   (% weight-for-height <-3 SD)
+Prevalence of anaemia in women of reproductive age (aged 15-49) (%)
+Mortality rate for 5-14 year-olds (probability of dying per 1000 children aged 5-14 years)
+Nutrition Governance score
+Prevalence of underweight children under 5 years of age   (% weight-for-age <-2 SD) (%)
+Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan (current US$ millions)
+Pharmacists  (per 10 000 population)
+Status of elimination of trachoma as a public health problem
+Proportion of ever-partnered women and girls aged 15–49 years subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months
